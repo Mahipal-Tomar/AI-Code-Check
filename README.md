@@ -1,17 +1,17 @@
-AI Code Check is an automated tool for code analysis and review.
+ AI-Powered Code Reviewer
 
-It uses machine learning algorithms and static analysis to evaluate code quality.
+A full-stack web app that uses AI to provide instant feedback on user-submitted code.
 
-The tool identifies:
+ Project Highlights
 
-Style violations (e.g., improper formatting, naming conventions)
+. Built with **Node.js** for backend logic and API handling.
+. Uses **Google Gemini API** to generate AI-based code reviews.
+. Frontend built with **vanilla HTML, CSS, and JavaScript**.
+. Allows users to paste code and receive **real-time suggestions**.
+. Clean project structure with separate **BackEnd** and **Frontend** folders.
+. Backend uses **Express.js** to manage routes and requests.
+. Lightweight UI for easy browser access without frontend frameworks.
+. Helps developers learn and improve code quality on the fly.
+. Includes secure input handling and minimal dependencies.
+. Simple to run locally with `npm install` and `npm start` commands.
 
-Potential bugs (e.g., unused variables, unreachable code)
-
-Performance issues (e.g., inefficient loops, excessive memory usage)
-
-Provides actionable feedback and suggestions to improve code quality.
-
-Helps developers maintain clean, efficient, and maintainable code.
-
-Supports integration with various programming languages and codebases.
